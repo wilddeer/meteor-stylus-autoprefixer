@@ -1,6 +1,6 @@
-### Custom built Stylus + Autoprefixer for Meteor
+# Custom built Stylus + Autoprefixer for Meteor
 
 Watches for `*.styl` files, compiles only `*.build.styl` files to allow you to `@import` everything the way you want it.
 
-### Installation
+## Installation
 `meteor add wilddeer:meteor-stylus-autoprefixer`
