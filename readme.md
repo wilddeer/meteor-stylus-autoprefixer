@@ -1,14 +1,6 @@
-### Jeet with a bunch of extra goodies for Meteor
-This package contains Jeet, Nib, Autoprefixer, Rupture and Axis. They are great plugins and libraries integrating with Stylus.
+### Custom built Stylus + Autoprefixer for Meteor
+
+Watches for `*.styl` files, compiles only `*.build.styl` files to allow you to `@import` everything the way you want it.
 
 ### Installation
-````meteor add jnoble:multi-styl````
-
-### Usage
-just import what you want
-
-````
-@import 'nib'
-@import 'jeet'
-@import 'rupture'
-````
+`meteor add wilddeer:meteor-stylus-autoprefixer`
