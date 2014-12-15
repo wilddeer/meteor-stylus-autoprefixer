@@ -7,13 +7,13 @@ Package.describe({
 
 
 Package.registerBuildPlugin({
-  name: 'compileStylus',
-  use: [],
-  sources: [
-    'plugin/compile-stylus.js'
-  ],
-  npmDependencies: {
-    'stylus': '0.49.3',
-    'autoprefixer-stylus': '0.4.0'
-  }
+    name: 'compileStylus',
+    use: [],
+    sources: [
+        'plugin/compile-stylus.js'
+    ],
+    npmDependencies: {
+        'stylus': '0.49.3',
+        'autoprefixer-stylus': '0.4.0'
+    }
 });
