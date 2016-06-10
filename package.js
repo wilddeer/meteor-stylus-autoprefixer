@@ -13,7 +13,7 @@ Package.registerBuildPlugin({
         'plugin/compile-stylus.js'
     ],
     npmDependencies: {
-        'stylus': '0.49.3',
-        'autoprefixer-stylus': '0.4.0'
+        'stylus': '0.54.5',
+        'autoprefixer-stylus': '0.9.3'
     }
 });
