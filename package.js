@@ -1,7 +1,7 @@
 Package.describe({
     name: 'wilddeer:stylus-autoprefixer',
     summary: 'Stylus + Autoprefixer',
-    version: '1.0.0',
+    version: '1.1.0',
     git: 'https://github.com/wilddeer/meteor-stylus-autoprefixer.git'
 });
 
